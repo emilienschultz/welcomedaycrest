@@ -10,16 +10,16 @@ incremental: false
 
 ## Data@CREST
 
-**Data & computation - on of the CREST's strength !**
+**Data, computation & new methods - on of the CREST's strength !**
 
 ![](img/data-scientist-meme-main.jpg){fig-align="center"}
 
 ## The Data Hub: who to ask, for what
 
-**Dedicated support** — office 4044 - [emilien.schultz@ensae.fr](emilien.schultz@ensae.fr)
+**Dedicated support** for specific needs regarding data/methods/software — office 4044 - [emilien.schultz@ensae.fr](emilien.schultz@ensae.fr)
 
-- Émilien Schultz: computational social science, text as data, scientific programming, software development, infrastructure strategy, AI, ...
-- Alban Derepas (since september): econometrics, image, machine learning
+- Émilien Schultz : computational social science, text as data, scientific programming, software development, infrastructure strategy, AI, ...
+- Alban Derepas (since september) : econometrics, image, machine learning
 
 (IT & infrastructure (DSIT) — Philippe Pinczon du Sel, office 4036)
 

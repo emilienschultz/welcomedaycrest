@@ -1,0 +1,10 @@
+/*-- scss:defaults --*/
+$presentation-font-size-root: 30px;
+
+/*-- scss:rules --*/
+.comment { color: rgb(102, 137, 102); }
+
+.reveal .slide h2 {
+  border-bottom: 2px solid rgb(102, 137, 102);
+  padding-bottom: 0.2em;
+}

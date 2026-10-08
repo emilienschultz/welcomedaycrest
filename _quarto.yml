@@ -1,0 +1,22 @@
+project:
+  type: default
+  render:
+    - welcomeday.qmd
+
+lang: en
+
+format:
+  revealjs:
+    theme: [solarized, custom.scss]
+    slide-number: false
+    transition: slide
+    incremental: false
+    footer: "DATA & COMPUTATION @ CREST"
+    embed-resources: true
+  beamer:
+    theme: metropolis
+    aspectratio: 169
+    pdf-engine: xelatex
+    slide-level: 2
+    header-includes: |
+      \newcommand{\comment}[1]{\textcolor{gray}{#1}}
